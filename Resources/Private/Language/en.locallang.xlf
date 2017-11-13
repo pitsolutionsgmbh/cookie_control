@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2015-04-23T20:22:32Z" product-name="cookie_control" target-language="en">
+    <header/>
+    <body>	
+	<trans-unit id="titlelabel" xml:space="preserve">
+		<source>Cookie Control</source>
+		<target>Cookie Control</target>
+	</trans-unit>	
+	<trans-unit id="additional_text" xml:space="preserve">
+		<source></source>
+		<target></target>
+	</trans-unit>	
+	<trans-unit id="introductory_text" xml:space="preserve">
+		<source>Some cookies on this site are essential, and the site won't work as expected without them. These cookies are set when you submit a form, login or interact with the site by doing something that goes beyond clicking on simple links.We also use some non-essential cookies to anonymously track visitors or enhance your experience of the site. If you're not happy with this, we won't set these cookies but some nice features of the site may be unavailable.</source>
+		<target>Some cookies on this site are essential, and the site won't work as expected without them. These cookies are set when you submit a form, login or interact with the site by doing something that goes beyond clicking on simple links.We also use some non-essential cookies to anonymously track visitors or enhance your experience of the site. If you're not happy with this, we won't set these cookies but some nice features of the site may be unavailable.</target>
+	</trans-unit>	
+	<trans-unit id="cookieofftext" xml:space="preserve">
+		<source>Cookies off</source>
+		<target>Cookies off</target>
+	</trans-unit>	
+	<trans-unit id="cookiepreftext" xml:space="preserve">
+		<source>(One cookie will be set to store your preference)</source>
+		<target>(One cookie will be set to store your preference)</target>
+	</trans-unit>	
+	<trans-unit id="cookiecheckboxlabel" xml:space="preserve">
+		<source>Do not ask me again</source>
+		<target>Do not ask me again</target>
+	</trans-unit>	
+	<trans-unit id="cookiecheckboxtext" xml:space="preserve">
+		<source>(Ticking this sets a cookie to hide this popup if you then hit close. This will not store any personal information)</source>
+		<target>(Ticking this sets a cookie to hide this popup if you then hit close. This will not store any personal information)</target>
+	</trans-unit>	
+	<trans-unit id="close" xml:space="preserve">
+		<source>Close</source>
+		<target>Close</target>
+	</trans-unit>	
+	<trans-unit id="cookieoff" xml:space="preserve">
+		<source>Cookies are off</source>
+		<target>Cookies are off</target>
+	</trans-unit>	
+	<trans-unit id="cookieon" xml:space="preserve">
+		<source>Cookies are on</source>
+		<target>Cookies are on</target>
+	</trans-unit>	
+	<trans-unit id="readmore" xml:space="preserve">
+		<source>Read more</source>
+		<target>Read more</target>
+	</trans-unit>	
+	<trans-unit id="readless" xml:space="preserve">
+		<source>Read less</source>
+		<target>Read less</target>
+	</trans-unit>	
+	<trans-unit id="enable_cookie" xml:space="preserve">
+		<source>Enable Cookie</source>
+		<target>Enable Cookie</target>
+	</trans-unit>
+ </body>
+</file>
+</xliff>

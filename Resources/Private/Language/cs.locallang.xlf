@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" target-language="cs" datatype="plaintext" original="messages" date="2017-06-06T05:02:13Z" product-name="cookie_control">
+		<header/>
+		<body>
+			<trans-unit id="close" approved="yes">
+				<source>Close</source>
+				<target>Zavřít</target>
+			</trans-unit>
+			<trans-unit id="cookieoff" approved="yes">
+				<source>Cookies are off</source>
+				<target>Cookies jsou vypnuty</target>
+			</trans-unit>
+			<trans-unit id="cookieon" approved="yes">
+				<source>Cookies are on</source>
+				<target>Cookies jsou zapnuty</target>
+			</trans-unit>
+			<trans-unit id="readmore" approved="yes">
+				<source>Read more</source>
+				<target>Číst více</target>
+			</trans-unit>
+			<trans-unit id="readless" approved="yes">
+				<source>Read less</source>
+				<target>Číst méně</target>
+			</trans-unit>
+			<trans-unit id="cookieofftext" approved="yes">
+				<source>Cookies off</source>
+				<target>Cookies vypnuty</target>
+			</trans-unit>
+			<trans-unit id="cookiecheckboxtext" approved="yes">
+				<source></source>
+				<target>Tyto webové stránky používají k poskytování služeb, personalizaci reklam a analýze návštěvnosti soubory cookie. Používáním tohoto webu s tím souhlasíte. 
+Více informací - link https://www.google.com/intl/cs/policies/privacy/partners/</target>
+			</trans-unit>
+			<trans-unit id="introductory_text" approved="yes">
+				<source></source>
+				<target>Tyto webové stránky používají k poskytování služeb, personalizaci reklam a analýze návštěvnosti soubory cookie. Používáním tohoto webu s tím souhlasíte.&lt;a href = &quot;https://www.google.com/intl/cs/policies/privacy/partners/&quot;&gt;Více informací&lt;/a&gt;</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,49 @@
+page = PAGE
+page.includeJS.cookiec = EXT:cookie_control/Resources/Public/Js/cookieControl-5.1.min.js
+page.includeJSFooter.cookiec = EXT:cookie_control/Resources/Public/Js/cookie_control-plugin.js
+
+
+plugin.tx_cookiecontrol_cookiecontrol {
+	view {
+		templateRootPaths.0 = {$plugin.tx_cookiecontrol_cookiecontrol.view.templateRootPath}
+		partialRootPaths.0 = {$plugin.tx_cookiecontrol_cookiecontrol.view.partialRootPath}
+		layoutRootPaths.0 = {$plugin.tx_cookiecontrol_cookiecontrol.view.layoutRootPath}
+	}
+	persistence {
+		storagePid = {$plugin.tx_cookiecontrol_cookiecontrol.persistence.storagePid}
+	}
+}
+
+plugin.tx_cookiecontrol._CSS_DEFAULT_STYLE (
+	textarea.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+
+	input.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+
+	.tx-cookie-control table {
+		border-collapse:separate;
+		border-spacing:10px;
+	}
+
+	.tx-cookie-control table th {
+		font-weight:bold;
+	}
+
+	.tx-cookie-control table td {
+		vertical-align:top;
+	}
+
+	.typo3-messages .message-error {
+		color:red;
+	}
+
+	.typo3-messages .message-ok {
+		color:green;
+	}
+
+)

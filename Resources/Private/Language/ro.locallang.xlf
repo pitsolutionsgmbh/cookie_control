@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2015-04-23T20:22:32Z" product-name="cookie_control" target-language="ro">
+    <header/>
+    <body>	
+	<trans-unit id="close" xml:space="preserve">
+		<source>Close</source>
+		<target>Inchide</target>
+	</trans-unit>	
+	<trans-unit id="cookiecheckboxlabel" xml:space="preserve">
+		<source>Do not ask me again</source>
+		<target>Nu ma mai intreba</target>
+	</trans-unit>	
+	<trans-unit id="cookieoff" xml:space="preserve">
+		<source>Cookies are off</source>
+		<target>Cookies sint dezactivate</target>
+	</trans-unit>	
+	<trans-unit id="cookieofftext" xml:space="preserve">
+		<source>Cookies off</source>
+		<target>Cookies dezactivate</target>
+	</trans-unit>	
+	<trans-unit id="cookieon" xml:space="preserve">
+		<source>Cookies are on</source>
+		<target>Cookies sint activate</target>
+	</trans-unit>	
+	<trans-unit id="titlelabel" xml:space="preserve">
+		<source>Cookie Control</source>
+		<target>Controlul cookie-urilor</target>
+	</trans-unit>	
+	<trans-unit id="readmore" xml:space="preserve">
+		<source>Read more</source>
+		<target>Citeste mai mult</target>
+	</trans-unit>	
+	<trans-unit id="readless" xml:space="preserve">
+		<source>Read less</source>
+		<target>Citeste mai putin</target>
+	</trans-unit>	
+	<trans-unit id="enable_cookie" xml:space="preserve">
+		<source>Enable Cookie</source>
+		<target>Activeaza cookie</target>
+	</trans-unit>
+ </body>
+</file>
+</xliff>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" target-language="cs" datatype="plaintext" original="messages" date="2015-05-23T20:22:32Z" product-name="cookie_control">
+    <header/>
+    <body>	
+	<trans-unit id="close" xml:space="preserve">
+		<source>Close</source>
+		<target>Zavř&#237;t</target>
+	</trans-unit>	
+	<trans-unit id="cookieoff" xml:space="preserve">
+		<source>Cookies are off</source>
+		<target>Cookies jsou vypnuty</target>
+	</trans-unit>
+	<trans-unit id="introductory_text" xml:space="preserve" approved="yes">
+                <source>Some cookies on this site are essential, and the site won't work as expected without them. These cookies are set when you submit a form, login or interact with the site by doing something that goes beyond clicking on simple links.We also use some non-essential cookies to anonymously track visitors or enhance your experience of the site. If you're not happy with this, we won't set these cookies but some nice features of the site may be unavailable.</source>
+		<target>
+		Tyto webové stránky používají k poskytování služeb, personalizaci reklam a analýze návštěvnosti soubory cookie. Používáním tohoto webu s tím souhlasíte.
+		Více informací - link https://www.google.com/intl/cs/policies/privacy/partners/</target>
+        </trans-unit>
+	<trans-unit id="cookieon" xml:space="preserve">
+		<source>Cookies are on</source>
+		<target>Cookies jsou zapnuty</target>
+	</trans-unit>	
+	<trans-unit id="readless" xml:space="preserve">
+		<source>Read less</source>
+		<target>Č&#237;st m&#233;ně</target>
+	</trans-unit>	
+	<trans-unit id="readmore" xml:space="preserve">
+		<source>Read more</source>
+		<target>Č&#237;st v&#237;ce</target>
+	</trans-unit>
+ </body>
+</file>
+</xliff>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" target-language="cz" datatype="plaintext" original="messages" date="2015-05-23T20:22:32Z" product-name="cookie_control">
+    <header/>
+    <body>
+        <trans-unit id="introductory_text" xml:space="preserve" approved="yes">
+            <source>Some cookies on this site are essential, and the site won't work as expected without them. These cookies are set when you submit a form, login or interact with the site by doing something that goes beyond clicking on simple links.We also use some non-essential cookies to anonymously track visitors or enhance your experience of the site. If you're not happy with this, we won't set these cookies but some nice features of the site may be unavailable.</source>
+            <target>Tyto webové stránky používají k poskytování služeb, personalizaci reklam a analýze návštěvnosti soubory cookie. Používáním tohoto webu s tím souhlasíte. Více informací - link https://www.google.com/intl/cs/policies/privacy/partners/</target>
+        </trans-unit>
+    </body>
+  </file>
+</xliff>

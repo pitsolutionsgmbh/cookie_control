@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2015-04-23T20:22:32Z" product-name="cookie_control" target-language="de">
+    <header/>
+    <body>	
+	<trans-unit id="close" xml:space="preserve">
+		<source>Close</source>
+		<target>Schliessen</target>
+	</trans-unit>	
+	<trans-unit id="cookiecheckboxlabel" xml:space="preserve">
+		<source>Do not ask me again</source>
+		<target>Nicht mehr fragen</target>
+	</trans-unit>	
+	<trans-unit id="cookiecheckboxtext" xml:space="preserve">
+		<source>(Ticking this sets a cookie to hide this popup if you then hit close. This will not store any personal information)</source>
+		<target>( Das Anklicken setzt ein Cookie, um dieses Popup zu verbergen, nachdem das Popup  &#252;ber X geschlossen wird. Dieser Cookie speichert keinerlei pers&#246;nliche Informationen. )</target>
+	</trans-unit>	
+	<trans-unit id="cookieoff" xml:space="preserve">
+		<source>Cookies are off</source>
+		<target>Cookies sind deaktiviert</target>
+	</trans-unit>	
+	<trans-unit id="cookieofftext" xml:space="preserve">
+		<source>Cookies off</source>
+		<target>Cookies deaktivieren</target>
+	</trans-unit>	
+	<trans-unit id="cookieon" xml:space="preserve">
+		<source>Cookies are on</source>
+		<target>Cookies sind aktiviert</target>
+	</trans-unit>	
+	<trans-unit id="cookiepreftext" xml:space="preserve">
+		<source>(One cookie will be set to store your preference)</source>
+		<target>( Ein Cookie wird gesetzt, um Ihre Einstellung zu speichern )</target>
+	</trans-unit>	
+	<trans-unit id="introductory_text" xml:space="preserve">
+		<source>Some cookies on this site are essential, and the site won't work as expected without them. These cookies are set when you submit a form, login or interact with the site by doing something that goes beyond clicking on simple links.We also use some non-essential cookies to anonymously track visitors or enhance your experience of the site. If you're not happy with this, we won't set these cookies but some nice features of the site may be unavailable.</source>
+		<target>Einige Cookies auf diesen Seiten sind essenziell damit die Website erwartungsgem &#228;&#223; funktioniert. Diese Cookies werden gesetzt, wenn Sie ein Formular  &#252;bermitteln, sich anmelden oder mit der Seite interagieren, was  &#252;ber das einfache Anklicken von Links hinausgeht. Wir benutzen jedoch auch nicht-essenzielle Cookies, um anonym das Verhalten unserer Benutzer zu verfolgen. Der ausschlie&#223;liche Grund hierf &#252;r ist, unsere Website f &#252;r Sie optimieren zu  k&#246;nnen. Wenn Sie dies aber nicht wollen, setzen wir keine Cookies. Jedoch sind dann m&#246;glicherweise einige hilfreiche Funktionen dieser Website nicht mehr nutzbar.</target>
+	</trans-unit>	
+	<trans-unit id="readless" xml:space="preserve">
+		<source>Read less</source>
+		<target>Zeige weniger</target>
+	</trans-unit>	
+	<trans-unit id="readmore" xml:space="preserve">
+		<source>Read more</source>
+		<target>Zeige mehr</target>
+	</trans-unit>	
+	<trans-unit id="titlelabel" xml:space="preserve">
+		<source>Cookie Control</source>
+		<target>Cookie Control</target>
+	</trans-unit>	
+	<trans-unit id="enable_cookie" xml:space="preserve">
+		<source>Enable Cookie</source>
+		<target>Tracking-Cookies</target>
+	</trans-unit>
+ </body>
+</file>
+</xliff>

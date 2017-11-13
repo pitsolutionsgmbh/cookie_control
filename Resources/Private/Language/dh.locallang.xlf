@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2015-04-23T20:22:32Z" product-name="cookie_control" target-language="dh">
+    <header/>
+    <body>	
+	<trans-unit id="cookiecheckboxlabel" xml:space="preserve">
+		<source>Do not ask me again</source>
+		<target>Nicht mehr fragen</target>
+	</trans-unit>	
+	<trans-unit id="cookiecheckboxtext" xml:space="preserve">
+		<source>(Ticking this sets a cookie to hide this popup if you then hit close. This will not store any personal information)</source>
+		<target>( Das Anklicken setzt ein Cookie, um dieses Popup zu verbergen, nachdem das Popup  &#252;ber X geschlossen wird. Dieser Cookie speichert keinerlei pers&#246;nliche Informationen. )</target>
+	</trans-unit>	
+	<trans-unit id="cookieoff" xml:space="preserve">
+		<source>Cookies are off</source>
+		<target>Cookies sind deaktiviert</target>
+	</trans-unit>	
+	<trans-unit id="cookieofftext" xml:space="preserve">
+		<source>Cookies off</source>
+		<target>Cookies deaktivieren</target>
+	</trans-unit>	
+	<trans-unit id="cookieon" xml:space="preserve">
+		<source>Cookies are on</source>
+		<target>Cookies sind aktiviert</target>
+	</trans-unit>	
+	<trans-unit id="cookiepreftext" xml:space="preserve">
+		<source>(One cookie will be set to store your preference)</source>
+		<target>( Ein Cookie wird gesetzt, um Ihre Einstellung zu speichern )</target>
+	</trans-unit>
+ </body>
+</file>
+</xliff>

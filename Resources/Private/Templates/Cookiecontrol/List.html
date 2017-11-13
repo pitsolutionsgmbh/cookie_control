@@ -1,0 +1,83 @@
+
+<f:layout name="Default" />
+
+This Template is responsible for creating a table of domain objects.
+
+If you modify this template, do not forget to change the overwrite settings
+in /Configuration/ExtensionBuilder/settings.yaml:
+Resources:
+Private:
+Templates:
+List.html: keep
+
+Otherwise your changes will be overwritten the next time you save the extension in the extension builder
+
+<f:section name="main">
+        <script type="text/javascript">
+                    
+                    var addSize = {cookiecontrols.addSize};                   
+                    var title = "{cookiecontrols.themeTitle}";                     
+                    var button = "";
+                    var buttonTextmore = "{cookiecontrols.readmore}";
+                    var buttonTextless = "{cookiecontrols.readless}";   </script>
+                   
+        <f:if condition="{cookiecontrols.addSize} > 0">
+            <f:then>
+                <script>
+                button = "<button class='ccc-expand'>{cookiecontrols.codeButton}</button>";</script>					
+            </f:then>    
+            <f:else>                       
+                <script>
+                            button = "";                   
+                  
+                </script>
+            </f:else>   
+        </f:if>
+
+        <script type='text/javascript'>
+		introText = $('<textarea />').html('{cookiecontrols.introductory_text}').text();
+		fullText = $('<textarea />').html('{cookiecontrols.additional_text}').text();
+cookieControl({
+introText:introText,
+fullText:fullText,
+position:'<f:format.raw>{cookiecontrols.iconPosition}</f:format.raw>',
+shape:'<f:format.raw>{cookiecontrols.iconType}</f:format.raw>',
+startOpen:true,
+autoHide:6000,
+subdomains:false,
+consentModel:'<f:format.raw>{cookiecontrols.consentModel}</f:format.raw>',
+countries:'<f:format.raw>{cookiecontrols.countries}</f:format.raw>',
+css:'',
+html: '<div id=\"cccwr\"><div id=\"ccc-state\" class=\"ccc-pause\"><div id=\"ccc-icon\"><button><span>'
++ title
++ '</span></button></div><div class=\"ccc-widget\"><div class=\"ccc-outer\"><div class=\"ccc-inner\"><h2>'
++ title
++ '</h2><div class=\"ccc-content\"><p class=\"ccc-intro\"></p><div class=\"ccc-expanded\"></div><div id=\"ccc-cookies-switch\" style=\"background-position-x: 0;\"><a id=\"cctoggle\" href=\"javascript:void(0)\" style=\"background-position-x: 0;\"><span class=\"toggle-off\">{cookiecontrols.cookieoff}</span><span class=\"toggle-on\">{cookiecontrols.cookieon}</span></a><input id=\"ccc-cookies-checkbox\" name=\"1\" type=\"checkbox\" value=\"0\" style=\"display:none;\" /><label for=\"ccc-cookies-checkbox\" style=\"display:none;\">"{cookiecontrols.cookieofftext}"</label></div><div id=\"ccc-implicit-warning\">{cookiecontrols.cookiepreftext}</div><div id=\"ccc-explicit-checkbox\"><label><input id=\"cchide-popup\" type=\"checkbox\" name=\"ccc-hide-popup\" value=\"Y\" /> {cookiecontrols.cookiecheckboxlabel} <br /></label>{cookiecontrols.cookiecheckboxtext}</div><p class=\"ccc-about\"><small><a target=\"_blank\" href=\"http://www.civicuk.com/cookie-law\">about this tool</a></small></p><a class=\"ccc-icon\" href=\"javascript:void(0)\" target=\"_blank\" title=\"About Cookie Control\">About Cookie Control</a><button title = "{cookiecontrols.close}" class=\"ccc-close\">{cookiecontrols.close}</button></div></div></div>'
++ button + '</div></div></div>',
+});
+function ccAddAnalytics() {
+jQuery.getScript('http://www.google-analytics.com/ga.js', function() {
+var GATracker = _gat._createTracker('{cookiecontrols.anlayticsCode}');
+GATracker._trackPageview();
+});
+}
+
+        </script>
+        <f:if condition="{cookiecontrols.implicit_showWidget}">
+        <f:then>
+
+                <script type="text/javascript">
+jQuery(document).ready(function(){
+    //alert(CookieControl.getCookie("civicAllowCookies"));
+if (CookieControl.getCookie("civicAllowCookies") == "yes") {
+jQuery(".ccc-widget").fadeIn(1000);
+setTimeout(function(){
+$(".ccc-widget").fadeOut(1000);
+}, '{cookiecontrols.implicit_timeout}');
+}
+});
+                </script>
+           
+        </f:then>    
+    </f:if>
+</f:section>

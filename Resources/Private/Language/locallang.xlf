@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2015-03-16T11:29:29Z" product-name="cookie_control">
+		<header/>
+		<body>
+			<trans-unit id="titlelabel" xml:space="preserve">
+				<source>Cookie Control</source>
+			</trans-unit>
+			<trans-unit id="additional_text" xml:space="preserve">
+				<source></source>
+			</trans-unit>
+			<trans-unit id="introductory_text" xml:space="preserve">
+				<source>Some cookies on this site are essential, and the site won't work as expected without them. These cookies are set when you submit a form, login or interact with the site by doing something that goes beyond clicking on simple links.We also use some non-essential cookies to anonymously track visitors or enhance your experience of the site. If you're not happy with this, we won't set these cookies but some nice features of the site may be unavailable.</source>
+			</trans-unit>
+			<trans-unit id="cookieofftext" xml:space="preserve">
+				<source>Cookies off</source>
+			</trans-unit>
+			<trans-unit id="cookiepreftext" xml:space="preserve">
+				<source>(One cookie will be set to store your preference)</source>
+			</trans-unit>
+			<trans-unit id="cookiecheckboxlabel" xml:space="preserve">
+				<source>Do not ask me again</source>
+			</trans-unit>
+			<trans-unit id="cookiecheckboxtext" xml:space="preserve">
+				<source>(Ticking this sets a cookie to hide this popup if you then hit close. This will not store any personal information)</source>
+			</trans-unit>
+			<trans-unit id="close" xml:space="preserve">
+				<source>Close</source>
+			</trans-unit>
+			<trans-unit id="cookieoff" xml:space="preserve">
+				<source>Cookies are off</source>
+			</trans-unit>
+			<trans-unit id="cookieon" xml:space="preserve">
+				<source>Cookies are on</source>
+			</trans-unit>
+			<trans-unit id="readmore" xml:space="preserve">
+				<source>Read more</source>
+			</trans-unit>
+			<trans-unit id="readless" xml:space="preserve">
+				<source>Read less</source>
+			</trans-unit>
+			<trans-unit id="enable_cookie" xml:space="preserve">
+				<source>Enable Cookie</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

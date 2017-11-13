@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2015-12-31T09:56:05Z" product-name="cookie_control">
+		<header/>
+		<body>
+			<trans-unit id="tx_cookiecontrol_domain_model_cookiecontrol">
+				<source>Cookiecontrol</source>
+			</trans-unit>
+                        <trans-unit id="tt_content.list_type_pi1" xml:space="preserve">
+				<source>Cookie Control Widget</source>
+			</trans-unit>
+                        
+                        <trans-unit id="tx_cookiecontrol_data.title" xml:space="preserve">
+				<source>Title</source>
+			</trans-unit>
+                        <trans-unit id="cookie_control.pi_flexform.sheet_general" xml:space="preserve">
+				<source>General</source>
+			</trans-unit>
+                        <trans-unit id="cookie_control.pi_flexform.icon_type" xml:space="preserve">
+				<source>Cookie control icon type</source>
+			</trans-unit>
+                        <trans-unit id="cookie_control.pi_flexform.diamond_view" xml:space="preserve">
+				<source>Diamond</source>
+			</trans-unit>
+                        <trans-unit id="cookie_control.pi_flexform.triangle_view" xml:space="preserve">
+				<source>Triangle</source>
+			</trans-unit>
+                        <trans-unit id="cookie_control.pi_flexform.icon_position" xml:space="preserve">
+				<source>Cookie control icon position</source>
+			</trans-unit>
+                        <trans-unit id="cookie_control.pi_flexform.icon_position_left" xml:space="preserve">
+				<source>Left</source>
+			</trans-unit>
+                        <trans-unit id="cookie_control.pi_flexform.icon_position_right" xml:space="preserve">
+				<source>Right</source>
+			</trans-unit>
+                        <trans-unit id="cookie_control.pi_flexform.introductory_text" xml:space="preserve">
+				<source>Introductory text</source>
+			</trans-unit>
+                        <trans-unit id="cookie_control.pi_flexform.additional_text" xml:space="preserve">
+				<source>Additional text</source>
+			</trans-unit>
+                        <trans-unit id="cookie_control.pi_flexform.extra_options" xml:space="preserve">
+				<source>Extra options</source>
+			</trans-unit>
+                        <trans-unit id="cookie_control.pi_flexform.theme_options" xml:space="preserve">
+				<source>Theme</source>
+			</trans-unit>
+                        <trans-unit id="cookie_control.pi_flexform.title" xml:space="preserve">
+				<source>Title</source>
+			</trans-unit>
+                        <trans-unit id="cookie_control.pi_flexform.theme_options" xml:space="preserve">
+				<source>Theme</source>
+			</trans-unit>
+                        <trans-unit id="cookie_control.pi_flexform.theme_title" xml:space="preserve">
+				<source>Popup Box Title</source>
+			</trans-unit>
+                         <trans-unit id="cookie_control.pi_flexform.select_theme" xml:space="preserve">
+				<source>Select the Theme</source>
+			</trans-unit>
+                         <trans-unit id="cookie_control.pi_flexform.theme_grey" xml:space="preserve">
+				<source>Grey</source>
+			</trans-unit>
+                         <trans-unit id="cookie_control.pi_flexform.theme_blue" xml:space="preserve">
+				<source>Blue</source>
+			</trans-unit>
+                         <trans-unit id="cookie_control.pi_flexform.file_upload" xml:space="preserve">
+				<source>Template File</source>
+			</trans-unit>
+                         <trans-unit id="cookie_control.pi_flexform.theme_black" xml:space="preserve">
+				<source>Black</source>
+			</trans-unit>
+                         <trans-unit id="cookie_control.pi_flexform.theme_country_enable" xml:space="preserve">
+				<source>Enable Countries</source>
+			</trans-unit>
+                         <trans-unit id="cookie_control.pi_flexform.theme_country_list" xml:space="preserve">
+				<source>Countries (eg: Germany,France ... more list here http://www.geoplugin.com/iso3166)</source>
+			</trans-unit>
+                         <trans-unit id="cookie_control.pi_flexform.theme_default" xml:space="preserve">
+				<source>Default</source>
+			</trans-unit>
+                         <trans-unit id="cookie_control.pi_flexform.anlyticsCode" xml:space="preserve">
+				<source>Google Analytics Code</source>
+			</trans-unit>
+                         <trans-unit id="cookie_control.pi_flexform.theme_custom_theme_enable" xml:space="preserve">
+				<source>Enable Custom Theme</source>
+			</trans-unit>
+                         <trans-unit id="cookie_control.pi_flexform.upload_custom_theme" xml:space="preserve">
+				<source>Custom Theme</source>
+			</trans-unit>
+                         <trans-unit id="cookie_control.pi_flexform.theme_custom" xml:space="preserve">
+				<source>Custom</source>
+			</trans-unit>
+                         <trans-unit id="cookie_control.pi_flexform.consentModel" xml:space="preserve">
+				<source>Content Model</source>
+			</trans-unit>
+                         <trans-unit id="cookie_control.pi_flexform.theme_enable_session" xml:space="preserve">
+				<source>Disable Session Cookies</source>
+			</trans-unit>
+                         <trans-unit id="cookie_control.pi_flexform.implicit_showWidget" xml:space="preserve">
+				<source>Show widget in implict mode</source>
+			</trans-unit>
+                         <trans-unit id="cookie_control.pi_flexform.implicit_timeout" xml:space="preserve">
+				<source>Widget timeout in implicit mode</source>
+			</trans-unit>
+                        
+                        
+                                <trans-unit id="tsce.templateFile" xml:space="preserve">
+                                       <source>Template file: Path to main template file</source>
+                               </trans-unit>
+                                <trans-unit id="tsce.themepath" xml:space="preserve">
+                                       <source>Theme path: Path to theme JS</source>
+                               </trans-unit>
+                                <trans-unit id="tsce.themeselect" xml:space="preserve">
+                                       <source>Theme selector: Select the predefined theme</source>
+                               </trans-unit>
+                                <trans-unit id="tsce.consentmodel" xml:space="preserve">
+                                       <source>Consent model: More info in http://civicuk.com/cookie-law/cookie_configuration_v5</source>
+                               </trans-unit>
+                                <trans-unit id="tsce.bluetheme" xml:space="preserve">
+                                       <source>Blue theme css</source>
+                               </trans-unit>
+                                <trans-unit id="tsce.greytheme" xml:space="preserve">
+                                       <source>Grey theme css</source>
+                               </trans-unit>
+                                <trans-unit id="tsce.blacktheme" xml:space="preserve">
+                                       <source>Black theme css</source>
+                               </trans-unit>
+                                <trans-unit id="tsce.iconposition" xml:space="preserve">
+                                       <source>Cookie control icon position</source>
+                               </trans-unit>
+                                <trans-unit id="tsce.themedefault" xml:space="preserve">
+                                       <source>Default theme css</source>
+                               </trans-unit>
+                               <trans-unit id="tsce.icontype" xml:space="preserve">
+                                       <source>Cookie control icon type</source>
+                               </trans-unit>
+                               <trans-unit id="tsce.countryselection" xml:space="preserve">
+                                       <source>Enable Countries</source>
+                               </trans-unit>
+                               <trans-unit id="tsce.countryfield" xml:space="preserve">
+                                       <source>Countries: (If Enable Countries option is set then usage eg: Germany,France ... more listed here http://www.geoplugin.com/iso3166)</source>
+                               </trans-unit>
+                               <trans-unit id="tsce.theme" xml:space="preserve">
+                                       <source>Custom Theme css: (Used only incase of Theme selector custom option)</source>
+                               </trans-unit>
+                               <trans-unit id="tsce.analyticscode" xml:space="preserve">
+                                       <source>Google Analytics code: (You can get the GA code form http://google.com/analytics/)</source>
+                               </trans-unit>
+                               <trans-unit id="tsce.enableSession" xml:space="preserve">
+                                       <source>Disable Session Cookies</source>
+                               </trans-unit>
+		</body>
+	</file>
+</xliff>

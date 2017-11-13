@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2015-04-23T20:22:32Z" product-name="cookie_control" target-language="ru">
+    <header/>
+    <body>	
+	<trans-unit id="close" xml:space="preserve">
+		<source>Close</source>
+		<target>Закрыть</target>
+	</trans-unit>	
+	<trans-unit id="cookiecheckboxlabel" xml:space="preserve">
+		<source>Do not ask me again</source>
+		<target>Больше не спрашивать</target>
+	</trans-unit>	
+	<trans-unit id="cookieoff" xml:space="preserve">
+		<source>Cookies are off</source>
+		<target>Cookies отключены</target>
+	</trans-unit>	
+	<trans-unit id="cookieofftext" xml:space="preserve">
+		<source>Cookies off</source>
+		<target>Cookies отключены</target>
+	</trans-unit>	
+	<trans-unit id="cookieon" xml:space="preserve">
+		<source>Cookies are on</source>
+		<target>Cookies включены</target>
+	</trans-unit>	
+	<trans-unit id="cookiepreftext" xml:space="preserve">
+		<source>(One cookie will be set to store your preference)</source>
+		<target>(один cookie будет установлен для хранения настроек)</target>
+	</trans-unit>	
+	<trans-unit id="enable_cookie" xml:space="preserve">
+		<source>Enable Cookie</source>
+		<target>Включить  куки</target>
+	</trans-unit>	
+	<trans-unit id="introductory_text" xml:space="preserve">
+		<source>Some cookies on this site are essential, and the site won't work as expected without them. These cookies are set when you submit a form, login or interact with the site by doing something that goes beyond clicking on simple links.We also use some non-essential cookies to anonymously track visitors or enhance your experience of the site. If you're not happy with this, we won't set these cookies but some nice features of the site may be unavailable.</source>
+		<target>Некоторые куки на этом сайте являются существенными, и сайт не будет работать должным образом без них. Эти файлы устанавливаются при отправке формы, войдите или взаимодействуйте с сайтом , делая что-то, что выходит за рамки простого нажатия на ссылки. Мы также используем некоторые несущественные куки для отслеживания посетителей анонимно или увеличить время вашего пребывания на сайте. Если вы не довольны этим, мы не будем устанавливать эти куки, но некоторые отличные функции сайта могут быть недоступны.</target>
+	</trans-unit>	
+	<trans-unit id="readless" xml:space="preserve">
+		<source>Read less</source>
+		<target>Читать меньше</target>
+	</trans-unit>	
+	<trans-unit id="readmore" xml:space="preserve">
+		<source>Read more</source>
+		<target>Читать больше</target>
+	</trans-unit>	
+	<trans-unit id="titlelabel" xml:space="preserve">
+		<source>Cookie Control</source>
+		<target>Контроль куки</target>
+	</trans-unit>
+ </body>
+</file>
+</xliff>

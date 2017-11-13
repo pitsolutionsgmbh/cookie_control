@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" target-language="hu" datatype="plaintext" original="messages" date="2015-03-16T11:29:29Z" product-name="cookie_control">
+		<header/>
+		<body>
+			<trans-unit id="titlelabel" xml:space="preserve" approved="yes">
+				<source>Cookie Control</source>
+				<target>Cookie ellenőrzése</target>
+			</trans-unit>
+			<trans-unit id="additional_text" xml:space="preserve" approved="yes">
+				<source></source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="introductory_text" xml:space="preserve" approved="yes">
+				<source>Some cookies on this site are essential, and the site won't work as expected without them. These cookies are set when you submit a form, login or interact with the site by doing something that goes beyond clicking on simple links.We also use some non-essential cookies to anonymously track visitors or enhance your experience of the site. If you're not happy with this, we won't set these cookies but some nice features of the site may be unavailable.</source>
+				<target>Egyes cookie-k ezen az oldalon elengedhetetlen, és az oldal nem a várt módon működik nélkülük. Ezek a cookie-k be, ha elküld egy űrlapot, jelentkezz be, vagy befolyásolja a helyszínen csinál valamit, ami túlmutat az egyszerű kattintás links.We is használhatja, nem alapvető fontosságú sütiket névtelenül követi nyomon a látogatókat és tapasztalatokkal gazdagodhat az oldalon. Ha nem vagy elégedett ezzel, nem fogjuk meg ezeket a sütiket, de pár szép képességgel az oldal nem érhető el.</target>
+			</trans-unit>
+			<trans-unit id="cookieofftext" xml:space="preserve" approved="yes">
+				<source>Cookies off</source>
+				<target>Cookie-k kikapcsolva</target>
+			</trans-unit>
+			<trans-unit id="cookiepreftext" xml:space="preserve" approved="yes">
+				<source>(One cookie will be set to store your preference)</source>
+				<target>(Egy süti lesz állítva tárolja a preferencia)</target>
+			</trans-unit>
+			<trans-unit id="cookiecheckboxlabel" xml:space="preserve" approved="yes">
+				<source>Do not ask me again</source>
+				<target>Ne kérdezze meg újra</target>
+			</trans-unit>
+			<trans-unit id="cookiecheckboxtext" xml:space="preserve" approved="yes">
+				<source>(Ticking this sets a cookie to hide this popup if you then hit close. This will not store any personal information)</source>
+				<target>(Ketyeg ez beállít egy cookie rejteni ezt a popup, ha majd nyomja meg a Bezárás gombra. Ez nem tárolnak semmilyen személyes adatot)</target>
+			</trans-unit>
+			<trans-unit id="close" xml:space="preserve" approved="yes">
+				<source>Close</source>
+				<target>közeli</target>
+			</trans-unit>
+			<trans-unit id="cookieoff" xml:space="preserve" approved="yes">
+				<source>Cookies are off</source>
+				<target>A cookie-k kikapcsolása</target>
+			</trans-unit>
+			<trans-unit id="cookieon" xml:space="preserve" approved="yes">
+				<source>Cookies are on</source>
+				<target>Cookie-k vannak</target>
+			</trans-unit>
+			<trans-unit id="readmore" xml:space="preserve" approved="yes">
+				<source>Read more</source>
+				<target>Bővebben</target>
+			</trans-unit>
+			<trans-unit id="readless" xml:space="preserve" approved="yes">
+				<source>Read less</source>
+				<target>Olvassa el kevesebb</target>
+			</trans-unit>
+			<trans-unit id="enable_cookie" xml:space="preserve" approved="yes">
+				<source>Enable Cookie</source>
+				<target>Engedélyezze a cookie-k</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
